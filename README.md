@@ -34,7 +34,7 @@ Instagram: @istore_navid
 - فایل `mobileconfig` این نسخه امضا نشده است؛ iOS این موضوع را هنگام نصب نمایش می‌دهد.
 - GitHub Pages ممکن است فایل mobileconfig را با MIME عمومی ارائه کند. اگر دانلود مستقیم روی iOS درست عمل نکرد، فایل را روی هاستی قرار دهید که Content-Type آن `application/x-apple-aspen-config` باشد.
 - برای تغییر مجموعه آیکون‌های پروفایل، فایل باید دوباره ساخته و توسط کاربر نصب شود.
-- const grid=document.querySelector("#grid"), search=document.querySelector("#search"),
+const grid=document.querySelector("#grid"), search=document.querySelector("#search"),
 category=document.querySelector("#category"), stats=document.querySelector("#stats");
 let apps=[];
 function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[m]))}
@@ -1244,8 +1244,7 @@ Instagram: @istore_navid
     "desc": "کتاب و کتاب صوتی",
     "install": false
   }
-]
-AH
+]AH
 AppleHub
 
 ارائه‌شده توسط iStore Navid
