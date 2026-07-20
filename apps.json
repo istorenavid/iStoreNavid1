@@ -204,10 +204,10 @@
   },
   {
     "name": "بله",
-    "category": "پرداخت و مالی",
-    "url": "https://ble.ir/",
-    "desc": "پیام‌رسان و خدمات مالی",
-    "install": false
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.bale.ai/",
+    "desc": "نسخه وب پیام‌رسان بله",
+    "install": true
   },
   {
     "name": "ایوا",
@@ -397,5 +397,96 @@
     "url": "https://fidibo.com/",
     "desc": "کتاب و کتاب صوتی",
     "install": false
+  },
+  {
+    "name": "سپینو",
+    "category": "بانک و نئوبانک",
+    "url": "https://sepino.bsi.ir/",
+    "desc": "نئوبانک بانک صادرات و خدمات بانکی غیرحضوری",
+    "install": true
+  },
+  {
+    "name": "ازکی‌وام",
+    "category": "وام و اعتبار",
+    "url": "https://azkivam.com/",
+    "desc": "دریافت اعتبار و خرید اقساطی آنلاین",
+    "install": true
+  },
+  {
+    "name": "دیجی‌پی",
+    "category": "پرداخت و اعتبار",
+    "url": "https://app.mydigipay.com/",
+    "desc": "پرداخت، کیف پول، اعتبار و خرید اقساطی",
+    "install": true
+  },
+  {
+    "name": "سندس مووی",
+    "category": "رسانه و سرگرمی",
+    "url": "https://sandsmovie.ir/",
+    "desc": "فیلم و سریال آنلاین",
+    "install": true
+  },
+  {
+    "name": "ایتا",
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.eitaa.com/",
+    "desc": "نسخه وب پیام‌رسان ایتا",
+    "install": true
+  },
+  {
+    "name": "روبیکا",
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.rubika.ir/",
+    "desc": "نسخه وب روبیکا",
+    "install": true
+  },
+  {
+    "name": "سروش پلاس",
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.splus.ir/",
+    "desc": "نسخه وب سروش پلاس",
+    "install": true
+  },
+  {
+    "name": "گپ",
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.gap.im/",
+    "desc": "نسخه وب پیام‌رسان گپ",
+    "install": true
+  },
+  {
+    "name": "آی‌گپ",
+    "category": "پیام‌رسان ایرانی",
+    "url": "https://web.igap.net/",
+    "desc": "نسخه وب پیام‌رسان آی‌گپ",
+    "install": true
+  },
+  {
+    "name": "رهگیری دکاپست",
+    "category": "رهگیری مرسوله",
+    "url": "https://tracking.dekapost.ir/",
+    "desc": "پیگیری وضعیت مرسولات دکاپست",
+    "install": true
+  },
+  {
+    "name": "رهگیری ماهکس",
+    "category": "رهگیری مرسوله",
+    "url": "https://mahax.co/",
+    "desc": "رهگیری و خدمات ارسال ماهکس",
+    "install": true
+  },
+  {
+    "name": "رهگیری تیپاکس",
+    "category": "رهگیری مرسوله",
+    "url": "https://tipaxco.com/tracking",
+    "desc": "پیگیری بسته تیپاکس با کد رهگیری",
+    "install": true
+  },
+  {
+    "name": "رهگیری پست",
+    "category": "رهگیری مرسوله",
+    "url": "https://tracking.post.ir/",
+    "desc": "سامانه رهگیری مرسولات شرکت ملی پست",
+    "install": true
   }
 ]
