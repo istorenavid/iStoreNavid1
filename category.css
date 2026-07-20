@@ -1,0 +1,26 @@
+
+.subbar{height:78px;background:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 5%;box-shadow:0 2px 18px #0000000b;position:sticky;top:0;z-index:10}.subbar .brand{margin:0;font-size:27px}.back{color:#ff5a00;font-weight:800}.directory{max-width:1180px;margin:auto;padding:38px 22px 110px}.directory-head{background:linear-gradient(135deg,#061a2d,#0b3151);color:#fff;padding:30px;border-radius:24px;display:flex;align-items:center;gap:22px}.directory-head h1{font-size:34px;margin:0 0 8px}.directory-head p{margin:0;line-height:2}.cat-emoji{font-size:56px}.apps-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:26px}.app-card{background:#fff;border:1px solid #e8e8e8;border-radius:20px;padding:18px;display:grid;grid-template-columns:72px 1fr;gap:15px;box-shadow:0 8px 22px #0000000c}.app-card img{width:72px;height:72px;border-radius:18px}.app-card h2{font-size:19px;margin:2px 0 6px}.app-card p{font-size:14px;color:#666;line-height:1.8;margin:0 0 12px}.open-app{display:inline-flex;background:#ff5a00;color:#fff;border-radius:12px;padding:9px 14px;font-weight:800}.guide-mini{display:inline-flex;margin-right:8px;border:1px solid #ddd;border-radius:12px;padding:8px 11px;color:#333;background:#fff;cursor:pointer}.install-help{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid #ddd;padding:14px 5%;display:flex;justify-content:center;gap:18px;z-index:8;box-shadow:0 -4px 20px #0001}.install-help span{color:#555}.tip{grid-column:1/-1;background:#fff7ed;border:1px solid #ffd8b8;padding:14px;border-radius:14px;line-height:1.9}@media(max-width:850px){.apps-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.directory{padding:22px 14px 130px}.directory-head{align-items:flex-start}.directory-head h1{font-size:27px}.cat-emoji{font-size:42px}.apps-grid{grid-template-columns:1fr}.install-help{display:block;text-align:center}.install-help span{display:block;margin-top:5px;font-size:13px}.app-card{grid-template-columns:62px 1fr}.app-card img{width:62px;height:62px}}
+
+/* لوگوی رسمی هر سرویس */
+.official-app-logo {
+  width: 76px;
+  height: 76px;
+  flex: 0 0 76px;
+  object-fit: contain;
+  border-radius: 18px;
+  background: #fff;
+  padding: 8px;
+  box-sizing: border-box;
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+}
+
+@media (max-width: 560px) {
+  .official-app-logo {
+    width: 64px;
+    height: 64px;
+    flex-basis: 64px;
+    border-radius: 15px;
+  }
+}
+
+.app-title-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.app-title-row h2{margin:0}.web-badge{font-size:11px;font-weight:800;color:#ad5b00;background:#fff3e5;border:1px solid #ffd5a6;border-radius:999px;padding:4px 8px;white-space:nowrap}.official-app-logo{object-fit:contain;background:#fff;padding:8px}
